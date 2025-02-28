@@ -20,12 +20,23 @@ As plantas são classificadas em diferentes tipos, como frutíferas, ornamentais
 
 # Saída Esperada:
 A planta Maracujá tem 3m de altura, precisa de 5L de água e produz fruto amarelo. e vive no habitat floresta tropical.
+
 A planta Babosa tem 0.3m de altura, precisa de 1L de água e possui propriedades medicinais como cicatrizante e hidratante. e vive no habitat cerrado seco.
+
 A planta Limão produz fruto cítrico, tem 4m de altura, precisa de 6L de água e tem acidez azedo. e vive no habitat regiões subtropicais.
+
+
 A planta Maracujá foi adicionada à cúpula Plantas.
+
 A planta Babosa foi adicionada à cúpula Plantas.
+
 A planta Limão foi adicionada à cúpula Plantas.
+
+
 Plantas na cúpula Plantas:
+
 A planta Maracujá tem 3m de altura, precisa de 5L de água e produz fruto amarelo. e vive no habitat floresta tropical.
+
 A planta Babosa tem 0.3m de altura, precisa de 1L de água e possui propriedades medicinais como cicatrizante e hidratante. e vive no habitat cerrado seco.
+
 A planta Limão produz fruto cítrico, tem 4m de altura, precisa de 6L de água e tem acidez azedo. e vive no habitat regiões subtropicais.
