@@ -23,11 +23,16 @@ Ao executar o código, a saída será semelhante a esta:
 
 
 A planta Maracujá foi adicionada à cúpula Tropical.
+
 A planta Babosa foi adicionada à cúpula Tropical.
+
 A planta Limão foi adicionada à cúpula Tropical.
+
 Plantas na cúpula Tropical:
 A planta Maracujá tem 3m de altura, precisa de 5L de água, produz fruto amarelo e vive no habitat floresta tropical.
+
 A planta Babosa tem propriedades cicatrizante e hidratante, cresce até 0.3m, precisa de 1L de água e vive no habitat cerrado seco.
+
 A planta Limão produz fruto cítrico, tem 4m de altura, precisa de 6L de água, tem sabor azedo e vive no habitat regiões subtropicais.
 
 
