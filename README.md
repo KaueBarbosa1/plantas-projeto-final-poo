@@ -11,6 +11,7 @@ As plantas são classificadas em diferentes tipos, como frutíferas, ornamentais
    - Abra o PyCharm.
    - Vá em `File` > `Open...` e selecione a pasta onde o projeto foi clonado/baixado.
    - O PyCharm deve reconhecer automaticamente a estrutura do projeto.
+
 **Ou baixe o código e o abra no Pycharm.**
    - Na tela inicial vá em `Open`, depois selecione os arquivos .py.
    - No painel lateral do PyCharm, navegue até o arquivo `main.py` dentro da pasta do projeto.
