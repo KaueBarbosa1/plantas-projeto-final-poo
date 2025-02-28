@@ -11,11 +11,12 @@ As plantas são classificadas em diferentes tipos, como frutíferas, ornamentais
    - Abra o PyCharm.
    - Vá em `File` > `Open...` e selecione a pasta onde o projeto foi clonado/baixado.
    - O PyCharm deve reconhecer automaticamente a estrutura do projeto.
-Ou baixe o código e o abra no Pycharm.
+**Ou baixe o código e o abra no Pycharm.**
    - Na tela inicial vá em `Open`, depois selecione os arquivos .py.
    - No painel lateral do PyCharm, navegue até o arquivo `main.py` dentro da pasta do projeto.
    - Clique com o botão direito no arquivo `main.py` e selecione `Run 'main'`.
    - O PyCharm executará o código e exibirá a saída no console.
+
 # Saída Esperada:
 A planta Maracujá tem 3m de altura, precisa de 5L de água e produz fruto amarelo. e vive no habitat floresta tropical.
 A planta Babosa tem 0.3m de altura, precisa de 1L de água e possui propriedades medicinais como cicatrizante e hidratante. e vive no habitat cerrado seco.
